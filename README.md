@@ -5,14 +5,14 @@
 Me chamo Maria Eduarda Venturini Wollmann, tenho 20 anos e sou natural de Ribeirão Preto - São Paulo. Concluí o ensino médio técnico integrado com TI no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ribeirão Preto. Sou apaixonada por tecnologia e estou sempre buscando aprender mais.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/venturiniduda?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/venturiniduda?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/venturiniduda?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
